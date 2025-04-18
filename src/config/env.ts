@@ -1,0 +1,13 @@
+export const DB_HOST = 'localhost';
+export const DB_PORT = 5432;
+export const DB_USER = 'postgres';
+export const DB_PASSWORD = "12345";
+export const DB_DATABASE = 'taskmanager';
+export const JWT_SECRET = 'your_jwt_secret';
+export const JWT_REFRESH_SECRET = 'your_jwt_refresh_secret';
+export const EMAIL_HOST = 'your_email_host';
+export const EMAIl_SERVICE = "gmail";
+export const EMAIL_PORT = 465;
+export const EMAIL_USER = 'nihal.verma@techvalens.com';
+export const EMAIL_PASSWORD = 'dftjquykgzuzzzjp';
+export const EMAIL_FROM = 'nihal.verma@techvalens.com';

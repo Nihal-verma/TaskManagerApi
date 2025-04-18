@@ -1,0 +1,1 @@
+ALTER TABLE tasks ADD COLUMN category VARCHAR(255);

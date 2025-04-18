@@ -1,0 +1,3 @@
+ALTER TABLE tasks
+ADD COLUMN recurrence VARCHAR(255) NULL,
+ADD COLUMN recurrenceEndDate DATE NULL;
